@@ -9,5 +9,6 @@ Table: Information presented in tables can be edited directly. If after editing 
 List: You have to select an object in the list to go to pages containing information of that category. 
 
 
-[View the PDF](.Final Report.pdf)
+[View the Final Report](./Final%20Report.pdf)
+
 
